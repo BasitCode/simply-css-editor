@@ -1,0 +1,20 @@
+// app global css in SCSS form
+
+body {
+    overflow: hidden;
+}
+
+.window-drag {
+    -webkit-app-region: drag;
+}
+
+.body--light {
+    .bg-auto {
+        background: var(--q-color-light);
+    }
+}
+.body--dark {
+    .bg-auto {
+        background: var(--dark-page);
+    }
+}
