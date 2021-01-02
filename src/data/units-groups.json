@@ -1,0 +1,18 @@
+[
+  {
+    "id": "1",
+    "label": "Length"
+  },
+  {
+    "id": "2",
+    "label": "Angle"
+  },
+  {
+    "id": "3",
+    "label": "Time"
+  },
+  {
+    "id": "4",
+    "label": "Resolution"
+  }
+]

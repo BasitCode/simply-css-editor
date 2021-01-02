@@ -1,0 +1,164 @@
+[
+  {
+    "id": 1,
+    "label": "%",
+    "title": "Percentage. Relative to the parent element",
+    "value": "%"
+  },
+  {
+    "id": 2,
+    "label": "cm",
+    "title": "Centimeters",
+    "value": "cm"
+  },
+  {
+    "id": 3,
+    "label": "mm",
+    "title": "Millimeters",
+    "value": "mm"
+  },
+  {
+    "id": 4,
+    "label": "Q",
+    "title": "Quarter-millimeters",
+    "value": "Q"
+  },
+  {
+    "id": 5,
+    "label": "in",
+    "title": "Inches",
+    "value": "in"
+  },
+  {
+    "id": 6,
+    "label": "pc",
+    "title": "Picas",
+    "value": "pc"
+  },
+  {
+    "id": 7,
+    "label": "pt",
+    "title": "Points",
+    "value": "pt"
+  },
+  {
+    "id": 8,
+    "label": "px",
+    "title": "Pixels",
+    "value": "px"
+  },
+  {
+    "id": 9,
+    "label": "em",
+    "title": "Font size of the parent, in the case of typographical properties like font-size, and font size of the element itself, in the case of other properties like width",
+    "value": "em"
+  },
+  {
+    "id": 10,
+    "label": "ex",
+    "title": "x-height of the element's font",
+    "value": "ex"
+  },
+  {
+    "id": 11,
+    "label": "ch",
+    "title": "The advance measure width of the glyph '0' of the element's font",
+    "value": "ch"
+  },
+  {
+    "id": 12,
+    "label": "rem",
+    "title": "Font size of the root element",
+    "value": "rem"
+  },
+  {
+    "id": 13,
+    "label": "lh",
+    "title": "Line height of the element",
+    "value": "lh"
+  },
+  {
+    "id": 14,
+    "label": "vw",
+    "title": "1% of the viewport's width",
+    "value": "vw"
+  },
+  {
+    "id": 15,
+    "label": "vh",
+    "title": "1% of the viewport's height",
+    "value": "vh"
+  },
+  {
+    "id": 16,
+    "label": "vmin",
+    "title": "1% of the viewport's smaller dimension",
+    "value": "vmin"
+  },
+  {
+    "id": 17,
+    "label": "vmax",
+    "title": "1% of the viewport's larger dimension",
+    "value": "vmax"
+  },
+  {
+    "id": 18,
+    "label": "deg",
+    "title": "Represents an angle in degrees. One full circle is 360deg",
+    "value": "deg"
+  },
+  {
+    "id": 19,
+    "label": "grad",
+    "title": "Represents an angle in gradians. One full circle is 400grad",
+    "value": "grad"
+  },
+  {
+    "id": 20,
+    "label": "rad",
+    "title": "Represents an angle in radians. One full circle is 2π radians which approximates to 6.2832rad",
+    "value": "rad"
+  },
+  {
+    "id": 21,
+    "label": "turn",
+    "title": "Represents an angle in a number of turns. One full circle is 1turn",
+    "value": "turn"
+  },
+  {
+    "id": 22,
+    "label": "s",
+    "title": "Represents a time in seconds",
+    "value": "s"
+  },
+  {
+    "id": 23,
+    "label": "ms",
+    "title": "Represents a time in milliseconds. 1ms = 1000s",
+    "value": "ms"
+  },
+  {
+    "id": 24,
+    "label": "dpi",
+    "title": "Represents the number of dots per inch. Screens typically contains 72 or 96 dots per inch, but the dpi for printed documents is usually much greater. As 1 inch is 2.54 cm, 1dpi ≈ 0.39dpcm",
+    "value": "dpi"
+  },
+  {
+    "id": 25,
+    "label": "dpcm",
+    "title": "Represents the number of dots per centimeter. As 1 inch is 2.54 cm, 1dpcm ≈ 2.54dpi",
+    "value": "dpcm"
+  },
+  {
+    "id": 26,
+    "label": "dppx",
+    "title": "Represents the number of dots per px unit",
+    "value": "dppx"
+  },
+  {
+    "id": 27,
+    "label": "x",
+    "title": "Alias for dppx",
+    "value": "x"
+  }
+]

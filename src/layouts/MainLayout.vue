@@ -2,7 +2,7 @@
   <div class="absolute fit no-scroll column no-wrap">
     <window-titlebar></window-titlebar>
     <div class="fit row no-wrap">
-      <q-tabs v-model="ui.tab" active-color="primary" vertical switch-indicator>
+      <q-tabs v-model="ui.tab" active-color="primary" vertical>
         <q-tab name="editor" icon="mdi-tune-variant">
           <q-tooltip anchor="center right" self="center left" transition-show="scale" transition-hide="fade" :delay="500">Editor</q-tooltip>
         </q-tab>
