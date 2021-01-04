@@ -1,17 +1,15 @@
 import Vue from 'vue'
 import constantColors from '../data/constant-colors.json'
-import unitsGroups from '../data/units-groups.json'
-import unitsLength from '../data/units-length.json'
+import units_groups from '../data/units-groups.json'
+import units from '../data/units.json'
 
 
 var db = {
     constants: {
         colors: constantColors
     },
-    unitsGroups: unitsGroups,
-    units: {
-        length: unitsLength
-    }
+    units_groups,
+    units
 }
 
 Vue.prototype.$db = db
